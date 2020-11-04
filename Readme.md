@@ -5,6 +5,10 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 📚 &nbsp; My free [R course page](https://sites.google.com/view/gelsleichter/) (in Portuguese)
+- 💡 &nbsp; My [resume 🇺🇸](https://gelsleichter.github.io/en_resume/), and the [Portuguese Version 🇧🇷](https://gelsleichter.github.io/port_resume/)
+- 📖 &nbsp; My Thesis template for [UFRRJ](https://www.overleaf.com/latex/templates/modelo-de-tese-e-dissertacao-ufrrj-ppgctia-como-capitulo/pwpqqnjfrczx); subscribe to Overleaf, via [pelo link](https://www.overleaf.com?r=7579d5c0&rm=d&rs=b)
+- 🇧🇷 📖 &nbsp; Modelo de Tese e Dissertação latex [UFRRJ](https://www.overleaf.com/latex/templates/modelo-de-tese-e-dissertacao-ufrrj-ppgctia-como-capitulo/pwpqqnjfrczx) (Overleaf), crie uma conta no Overleaf [pelo link](https://www.overleaf.com?r=7579d5c0&rm=d&rs=b)
 <!---
 your comment goes here
 and here
