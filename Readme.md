@@ -5,10 +5,10 @@
 
 - 🔭 &nbsp; I keep learning R language
 - 🤔 &nbsp; Exploring new technologies and developing solutions in R
-- 📚 &nbsp; My free [R course page](https://sites.google.com/view/gelsleichter/) (in Portuguese)
-- 💡 &nbsp; My [resume 🇺🇸](https://gelsleichter.github.io/en_resume/), and the [Portuguese Version 🇧🇷](https://gelsleichter.github.io/port_resume/)
-- 📖 &nbsp; My Thesis template for [UFRRJ](https://www.overleaf.com/latex/templates/modelo-de-tese-e-dissertacao-ufrrj-ppgctia-como-capitulo/pwpqqnjfrczx); subscribe to Overleaf, via [link](https://www.overleaf.com?r=7579d5c0&rm=d&rs=b)
-- 🇧🇷 📖 &nbsp; Modelo de Tese e Dissertação latex [UFRRJ](https://www.overleaf.com/latex/templates/modelo-de-tese-e-dissertacao-ufrrj-ppgctia-como-capitulo/pwpqqnjfrczx) (Overleaf), crie uma conta no Overleaf [pelo link](https://www.overleaf.com?r=7579d5c0&rm=d&rs=b)
+- 📚 &nbsp; Check my free [R course page](https://sites.google.com/view/gelsleichter/) (in Portuguese)
+- 💡 &nbsp; [Resume 🇺🇸](https://gelsleichter.github.io/en_resume/), and the [Portuguese Version 🇧🇷](https://gelsleichter.github.io/port_resume/)
+- 📖 &nbsp; Improved LaTeX thesis template for [UFRRJ](https://www.overleaf.com/latex/templates/modelo-de-tese-e-dissertacao-ufrrj-ppgctia-como-capitulo/pwpqqnjfrczx); subscribe to Overleaf, via [link](https://www.overleaf.com?r=7579d5c0&rm=d&rs=b)
+- 🇧🇷 📖 &nbsp; Modelo de Tese e Dissertação LaTeX [UFRRJ](https://www.overleaf.com/latex/templates/modelo-de-tese-e-dissertacao-ufrrj-ppgctia-como-capitulo/pwpqqnjfrczx) (Overleaf), crie uma conta no Overleaf [pelo link](https://www.overleaf.com?r=7579d5c0&rm=d&rs=b)
 - 🌱 &nbsp; Enthusiast in Machine Learning
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
 <!---
