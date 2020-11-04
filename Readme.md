@@ -17,7 +17,7 @@ and here
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; R | Linux
+- 💻 &nbsp; R | Linux 🇧🇷
 <!---
 your comment goes here
 and here
